@@ -12,7 +12,6 @@ public class Main {
         myListDrivers.addDriver ("Lindsey Lohan", 1988, "jeep");
         myListDrivers.removeDriver("John Smith");
 
-
 //        myListDrivers.setViolation ("John Smith", 100);
 //        myListDrivers.setViolation ("John Lennon");
 //        myListDrivers.setViolation ("John Lennon", 200);
